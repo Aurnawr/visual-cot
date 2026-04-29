@@ -1,0 +1,6 @@
+# Core dependencies for the Visual CoT pipeline
+google-generativeai>=0.7.0
+tenacity>=8.2.0
+Pillow>=10.0.0
+datasets>=2.18.0
+tqdm>=4.65.0

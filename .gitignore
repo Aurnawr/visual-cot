@@ -1,2 +1,39 @@
+# Virtual environments
+myenv/
+venv/
+env/
+.venv/
 
-/myenv
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+
+# Environment files
+.env
+.env.local
+
+# Intermediate pipeline outputs (regenerated on every run)
+data/synth/
+data/filtered/
+
+# Raw chart images (~5 MB; can be regenerated from HuggingFace)
+data/raw/images/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+reports/

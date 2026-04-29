@@ -65,31 +65,6 @@ Each stage reads JSONL from the previous stage and writes JSONL to the next, so 
 
 ---
 
-## Quick Start
-
-```bash
-# 1. Clone and enter
-git clone https://github.com/<your-username>/visual-cot.git
-cd visual-cot
-
-# 2. Set up environment
-python -m venv myenv
-source myenv/bin/activate          # on Windows: myenv\Scripts\activate
-pip install -r requirements.txt
-
-# 3. Get a free Gemini API key from https://aistudio.google.com
-cp .env.example .env
-# Edit .env and paste your key
-
-# 4. Load the env and run the full pipeline
-export GEMINI_API_KEY=$(grep GEMINI_API_KEY .env | cut -d= -f2)
-chmod +x run_all.sh
-./run_all.sh
-```
-
-End-to-end runtime: ~25 minutes on a laptop with broadband. API cost: well within Gemini's 1,500-requests-per-day free tier.
-
----
 
 ## Step-by-Step Execution
 

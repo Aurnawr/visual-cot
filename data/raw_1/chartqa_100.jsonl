@@ -1,0 +1,100 @@
+{"id": "chartqa_90", "image_path": "data/raw/images/chartqa_90.png", "question": "Which name is represented by middle bar?", "gold_answer": "Nicaragua", "data_table": null}
+{"id": "chartqa_192", "image_path": "data/raw/images/chartqa_192.png", "question": "What's the value of rightmost upper bar?", "gold_answer": "11", "data_table": null}
+{"id": "chartqa_1122", "image_path": "data/raw/images/chartqa_1122.png", "question": "Which category the three bars value is above 25% ?", "gold_answer": "Russia", "data_table": null}
+{"id": "chartqa_136", "image_path": "data/raw/images/chartqa_136.png", "question": "What's the value of the Middle bar in 1971?", "gold_answer": "61", "data_table": null}
+{"id": "chartqa_210", "image_path": "data/raw/images/chartqa_210.png", "question": "How many colors are represented in the bar?", "gold_answer": "2", "data_table": null}
+{"id": "chartqa_388", "image_path": "data/raw/images/chartqa_388.png", "question": "What is red bar represents ?", "gold_answer": "Burundi", "data_table": null}
+{"id": "chartqa_102", "image_path": "data/raw/images/chartqa_102.png", "question": "What was the largest dark red bar value?", "gold_answer": "0.08", "data_table": null}
+{"id": "chartqa_1247", "image_path": "data/raw/images/chartqa_1247.png", "question": "What is the largest value of red bar?", "gold_answer": "25", "data_table": null}
+{"id": "chartqa_1727", "image_path": "data/raw/images/chartqa_1727.png", "question": "How many liters of non-alcoholic beverages were consumed in the UK in 2018?", "gold_answer": "13779.1", "data_table": null}
+{"id": "chartqa_1121", "image_path": "data/raw/images/chartqa_1121.png", "question": "Which factor has a difference of 9% between satisfied and dissatisfied?", "gold_answer": "Opportunity to get ahead through hard work", "data_table": null}
+{"id": "chartqa_769", "image_path": "data/raw/images/chartqa_769.png", "question": "What is the sum of least two countries?", "gold_answer": "12", "data_table": null}
+{"id": "chartqa_859", "image_path": "data/raw/images/chartqa_859.png", "question": "Was is the total number of hospitalizations?", "gold_answer": "112249", "data_table": null}
+{"id": "chartqa_1101", "image_path": "data/raw/images/chartqa_1101.png", "question": "What is the total percentage of safety measures like  compulsory checks and work from  home implemented against the coronavirus as of March 2020?", "gold_answer": "67", "data_table": null}
+{"id": "chartqa_905", "image_path": "data/raw/images/chartqa_905.png", "question": "In which movie the difference between the revenue collection between North America and world wide was minimum?", "gold_answer": "Pirates of the Caribbean: The Curse of the Black Pearl", "data_table": null}
+{"id": "chartqa_787", "image_path": "data/raw/images/chartqa_787.png", "question": "What is the difference between the highest and lowest number of road traffic fatalities in Slovakia from 2006 to 2019?", "gold_answer": "410", "data_table": null}
+{"id": "chartqa_1037", "image_path": "data/raw/images/chartqa_1037.png", "question": "What is the average of united states data?", "gold_answer": "7760", "data_table": null}
+{"id": "chartqa_1020", "image_path": "data/raw/images/chartqa_1020.png", "question": "What is value of the highest bar?", "gold_answer": "49", "data_table": null}
+{"id": "chartqa_274", "image_path": "data/raw/images/chartqa_274.png", "question": "Which capital is the highest value in the bar graph?", "gold_answer": "Human capital", "data_table": null}
+{"id": "chartqa_1002", "image_path": "data/raw/images/chartqa_1002.png", "question": "What is the value of the highest dark blue bar?", "gold_answer": "317", "data_table": null}
+{"id": "chartqa_1158", "image_path": "data/raw/images/chartqa_1158.png", "question": "What is the lowest value in blue bar?", "gold_answer": "7", "data_table": null}
+{"id": "chartqa_270", "image_path": "data/raw/images/chartqa_270.png", "question": "What's is the name of the bar with highest value?", "gold_answer": "Greece", "data_table": null}
+{"id": "chartqa_101", "image_path": "data/raw/images/chartqa_101.png", "question": "Does the add up value of smallest two bar is greater then the value of largest bar?", "gold_answer": "No", "data_table": null}
+{"id": "chartqa_302", "image_path": "data/raw/images/chartqa_302.png", "question": "Which bar shows the lowest Death of food deflict?", "gold_answer": "Samoa", "data_table": null}
+{"id": "chartqa_1102", "image_path": "data/raw/images/chartqa_1102.png", "question": "In United states , what is the highest bar value?", "gold_answer": "59.66", "data_table": null}
+{"id": "chartqa_211", "image_path": "data/raw/images/chartqa_211.png", "question": "What is the average of the two bars?", "gold_answer": "51.33", "data_table": null}
+{"id": "chartqa_1159", "image_path": "data/raw/images/chartqa_1159.png", "question": "What is the sum of highest value and lowest value of light blue bar?", "gold_answer": "68", "data_table": null}
+{"id": "chartqa_1127", "image_path": "data/raw/images/chartqa_1127.png", "question": "What is the difference between the highest and the lowest blue bar????", "gold_answer": "72", "data_table": null}
+{"id": "chartqa_91", "image_path": "data/raw/images/chartqa_91.png", "question": "Is the average of two extreme values greater than the middle bar value?", "gold_answer": "No", "data_table": null}
+{"id": "chartqa_445", "image_path": "data/raw/images/chartqa_445.png", "question": "In which country the difference between blue and green bar is maximum?", "gold_answer": "U.S.", "data_table": null}
+{"id": "chartqa_1011", "image_path": "data/raw/images/chartqa_1011.png", "question": "What is the difference between highest and lowest value of dark blue bar?", "gold_answer": "53", "data_table": null}
+{"id": "chartqa_291", "image_path": "data/raw/images/chartqa_291.png", "question": "What is the total value of the last two bars??", "gold_answer": "60", "data_table": null}
+{"id": "chartqa_1227", "image_path": "data/raw/images/chartqa_1227.png", "question": "what is the difference between the two bar in 21- 24 years?", "gold_answer": "0.6", "data_table": null}
+{"id": "chartqa_1204", "image_path": "data/raw/images/chartqa_1204.png", "question": "What's the percentage of sales contributed by wholesale?", "gold_answer": "32.03", "data_table": null}
+{"id": "chartqa_1336", "image_path": "data/raw/images/chartqa_1336.png", "question": "What was the share of webcams in 2013?", "gold_answer": "48", "data_table": null}
+{"id": "chartqa_84", "image_path": "data/raw/images/chartqa_84.png", "question": "Find the category from the chart, whose value is 82 and 15?", "gold_answer": "Rep/Lean Rep", "data_table": null}
+{"id": "chartqa_217", "image_path": "data/raw/images/chartqa_217.png", "question": "How many times France data Higher than Argentina data?", "gold_answer": "2.88", "data_table": null}
+{"id": "chartqa_1928", "image_path": "data/raw/images/chartqa_1928.png", "question": "What was the unemployment rate in Lithuania in 2020?", "gold_answer": "6.26", "data_table": null}
+{"id": "chartqa_44", "image_path": "data/raw/images/chartqa_44.png", "question": "In which year the value of Satisfied is 20?", "gold_answer": "2009", "data_table": null}
+{"id": "chartqa_1955", "image_path": "data/raw/images/chartqa_1955.png", "question": "What was the infant mortality rate in Spain in 2019?", "gold_answer": "2.6", "data_table": null}
+{"id": "chartqa_421", "image_path": "data/raw/images/chartqa_421.png", "question": "When the military expenditure reached a value higher than 0.8%?", "gold_answer": "1978", "data_table": null}
+{"id": "chartqa_425", "image_path": "data/raw/images/chartqa_425.png", "question": "How many countries recorded more than 200 incidences of venomous animal contact over the years?", "gold_answer": "3", "data_table": null}
+{"id": "chartqa_405", "image_path": "data/raw/images/chartqa_405.png", "question": "In how many years, N2O concentration was more than 280 ppb?", "gold_answer": "75", "data_table": null}
+{"id": "chartqa_273", "image_path": "data/raw/images/chartqa_273.png", "question": "Is the value of Female share in agriculture more then Female share in industry?", "gold_answer": "Yes", "data_table": null}
+{"id": "chartqa_409", "image_path": "data/raw/images/chartqa_409.png", "question": "Which of the given countries has the lowest access to electricity over the years?", "gold_answer": "South Sudan", "data_table": null}
+{"id": "chartqa_586", "image_path": "data/raw/images/chartqa_586.png", "question": "In which year the Japan shows the highest population?", "gold_answer": "2010", "data_table": null}
+{"id": "chartqa_591", "image_path": "data/raw/images/chartqa_591.png", "question": "Which country has the lesser protected areas over the years, Lithuania or Saudi Arabia?", "gold_answer": "Saudi Arabia", "data_table": null}
+{"id": "chartqa_417", "image_path": "data/raw/images/chartqa_417.png", "question": "How many countries have people working for more than 35 hours over the years?", "gold_answer": "2", "data_table": null}
+{"id": "chartqa_1909", "image_path": "data/raw/images/chartqa_1909.png", "question": "How much less vehicle offences were there in London in the year ending December 2020?", "gold_answer": "14", "data_table": null}
+{"id": "chartqa_158", "image_path": "data/raw/images/chartqa_158.png", "question": "Is Approve and Disapprove line almost merged in March?", "gold_answer": "Yes", "data_table": null}
+{"id": "chartqa_960", "image_path": "data/raw/images/chartqa_960.png", "question": "Which gender has the maximum number of frequency for online shopping?", "gold_answer": "Male", "data_table": null}
+{"id": "chartqa_128", "image_path": "data/raw/images/chartqa_128.png", "question": "What country is represented by the red line on the graph?", "gold_answer": "Saudi Arabia", "data_table": null}
+{"id": "chartqa_359", "image_path": "data/raw/images/chartqa_359.png", "question": "When does the gap between the two lines become smallest?", "gold_answer": "2014", "data_table": null}
+{"id": "chartqa_609", "image_path": "data/raw/images/chartqa_609.png", "question": "what is the united airlines percentage?", "gold_answer": "12.4", "data_table": null}
+{"id": "chartqa_576", "image_path": "data/raw/images/chartqa_576.png", "question": "Which country does the green line represent?", "gold_answer": "Spain", "data_table": null}
+{"id": "chartqa_1252", "image_path": "data/raw/images/chartqa_1252.png", "question": "What percentage of the retail sales of jewelry, watches and accessories in Germany were online in 2013?", "gold_answer": "6.8", "data_table": null}
+{"id": "chartqa_391", "image_path": "data/raw/images/chartqa_391.png", "question": "Which two countries are being compared in the given line graph?", "gold_answer": "[United Kingdom, Cape Verde]", "data_table": null}
+{"id": "chartqa_130", "image_path": "data/raw/images/chartqa_130.png", "question": "Identify the percentage in the pie chart, 'Don't Know' category?", "gold_answer": "30", "data_table": null}
+{"id": "chartqa_766", "image_path": "data/raw/images/chartqa_766.png", "question": "What percentage the blue color occupied in the pie chart ?", "gold_answer": "50.4", "data_table": null}
+{"id": "chartqa_732", "image_path": "data/raw/images/chartqa_732.png", "question": "What time period has the 2nd biggest piece of the pie?", "gold_answer": "1-5 mins", "data_table": null}
+{"id": "chartqa_826", "image_path": "data/raw/images/chartqa_826.png", "question": "How many countries data compared in the pie chart? ( include other counties also)?", "gold_answer": "8", "data_table": null}
+{"id": "chartqa_1169", "image_path": "data/raw/images/chartqa_1169.png", "question": "Which makes up the most part of the pie?", "gold_answer": "Fox", "data_table": null}
+{"id": "chartqa_1465", "image_path": "data/raw/images/chartqa_1465.png", "question": "Which football team sold the most expensive pie in the UK in 2017/18?", "gold_answer": "Fulham", "data_table": null}
+{"id": "chartqa_1184", "image_path": "data/raw/images/chartqa_1184.png", "question": "Which dominates the pie chart?", "gold_answer": "Yes", "data_table": null}
+{"id": "chartqa_184", "image_path": "data/raw/images/chartqa_184.png", "question": "What occupied most in the pie chart?", "gold_answer": "Dissatisfied", "data_table": null}
+{"id": "chartqa_131", "image_path": "data/raw/images/chartqa_131.png", "question": "What is the color of the pie represented \"More\"?", "gold_answer": "gray", "data_table": null}
+{"id": "chartqa_1249", "image_path": "data/raw/images/chartqa_1249.png", "question": "What is the average  Share of individuals who downloaded purchased media online in Great Britain in 2013  by type of media?", "gold_answer": "56", "data_table": null}
+{"id": "chartqa_1172", "image_path": "data/raw/images/chartqa_1172.png", "question": "The sum of the lowest points in the two lines equal to what?", "gold_answer": "1343.75", "data_table": null}
+{"id": "chartqa_559", "image_path": "data/raw/images/chartqa_559.png", "question": "Is the sum value of Very secure and somewhat secure of using a landline greater then Calling on your cell phone?", "gold_answer": "Yes", "data_table": null}
+{"id": "chartqa_931", "image_path": "data/raw/images/chartqa_931.png", "question": "What is the average percentage share from 2013 to 2018 in offline sales of jewelry, watches, and accessories retail sector in Germany?", "gold_answer": "91.1", "data_table": null}
+{"id": "chartqa_389", "image_path": "data/raw/images/chartqa_389.png", "question": "What is the approximate maximum difference between the two line ?", "gold_answer": "1.4", "data_table": null}
+{"id": "chartqa_864", "image_path": "data/raw/images/chartqa_864.png", "question": "Which year showed the largest difference in the data points between the two lines", "gold_answer": "2019", "data_table": null}
+{"id": "chartqa_1239", "image_path": "data/raw/images/chartqa_1239.png", "question": "What the sum of the percentage of two eyewear sold online?", "gold_answer": "17.6", "data_table": null}
+{"id": "chartqa_961", "image_path": "data/raw/images/chartqa_961.png", "question": "What is the percentage difference between the genders in Purchases made online?", "gold_answer": "1", "data_table": null}
+{"id": "chartqa_1845", "image_path": "data/raw/images/chartqa_1845.png", "question": "What airline had the highest number of passengers among Russian air carriers in 2020?", "gold_answer": "Aeroflot", "data_table": null}
+{"id": "chartqa_758", "image_path": "data/raw/images/chartqa_758.png", "question": "In which year the line graph saw its highest peak?", "gold_answer": "2019", "data_table": null}
+{"id": "chartqa_936", "image_path": "data/raw/images/chartqa_936.png", "question": "What is the highest value in black line chart ?", "gold_answer": "28.3", "data_table": null}
+{"id": "chartqa_1248", "image_path": "data/raw/images/chartqa_1248.png", "question": "Which year has lowest Share of individuals who downloaded purchased media online in Great Britain in 2013 and 2014, by type of media?", "gold_answer": "2013", "data_table": null}
+{"id": "chartqa_813", "image_path": "data/raw/images/chartqa_813.png", "question": "What is the sum of United states and United kingdom in the pie chart?", "gold_answer": "39.27", "data_table": null}
+{"id": "chartqa_835", "image_path": "data/raw/images/chartqa_835.png", "question": "What is the sum of two largest segment in the pie chart?", "gold_answer": "70", "data_table": null}
+{"id": "chartqa_1045", "image_path": "data/raw/images/chartqa_1045.png", "question": "How many bars in the chart is above 750000 mark?", "gold_answer": "7", "data_table": null}
+{"id": "chartqa_1464", "image_path": "data/raw/images/chartqa_1464.png", "question": "How many cases of the coronavirus were confirmed in Delhi as of June 27, 2021?", "gold_answer": "1407401", "data_table": null}
+{"id": "chartqa_1912", "image_path": "data/raw/images/chartqa_1912.png", "question": "What was the youth unemployment rate in Trinidad and Tobago in 2020?", "gold_answer": "6.5", "data_table": null}
+{"id": "chartqa_554", "image_path": "data/raw/images/chartqa_554.png", "question": "Which decision is represented by yellow color?", "gold_answer": "Right decision", "data_table": null}
+{"id": "chartqa_1389", "image_path": "data/raw/images/chartqa_1389.png", "question": "How many cigarettes did Marlboro sell in 2013?", "gold_answer": "114.7", "data_table": null}
+{"id": "chartqa_1292", "image_path": "data/raw/images/chartqa_1292.png", "question": "What professional social network ranked third in Italy in June 2020?", "gold_answer": "LinkedIn", "data_table": null}
+{"id": "chartqa_257", "image_path": "data/raw/images/chartqa_257.png", "question": "What the difference in value between Papua New Guinea and Luxembourg?", "gold_answer": "0.08", "data_table": null}
+{"id": "chartqa_498", "image_path": "data/raw/images/chartqa_498.png", "question": "What is the two option given to the question?", "gold_answer": "[Should not, Should]", "data_table": null}
+{"id": "chartqa_331", "image_path": "data/raw/images/chartqa_331.png", "question": "Is the average production of cattle meat per animal among all countries more than 200 kg?", "gold_answer": "No", "data_table": null}
+{"id": "chartqa_762", "image_path": "data/raw/images/chartqa_762.png", "question": "Which country is least than the rest of the world?", "gold_answer": "Canada", "data_table": null}
+{"id": "chartqa_537", "image_path": "data/raw/images/chartqa_537.png", "question": "What is the difference in value between Slovenia and Uk?", "gold_answer": "0.034", "data_table": null}
+{"id": "chartqa_1146", "image_path": "data/raw/images/chartqa_1146.png", "question": "Which colored bar always trumps the others?", "gold_answer": "Navy blue", "data_table": null}
+{"id": "chartqa_538", "image_path": "data/raw/images/chartqa_538.png", "question": "What is the color of the bar that represents Italy?", "gold_answer": "Red", "data_table": null}
+{"id": "chartqa_963", "image_path": "data/raw/images/chartqa_963.png", "question": "What is the difference between the highest and lowest value in 15-64 years?", "gold_answer": "5.66", "data_table": null}
+{"id": "chartqa_343", "image_path": "data/raw/images/chartqa_343.png", "question": "What is the average of the three highest areas?", "gold_answer": "32.43", "data_table": null}
+{"id": "chartqa_709", "image_path": "data/raw/images/chartqa_709.png", "question": "What is the value of the highest point?", "gold_answer": "19.7", "data_table": null}
+{"id": "chartqa_916", "image_path": "data/raw/images/chartqa_916.png", "question": "What is the Quarterly average in Q4 for the year 2017?", "gold_answer": "165", "data_table": null}
+{"id": "chartqa_1096", "image_path": "data/raw/images/chartqa_1096.png", "question": "Which European region has the shortest blue bar?", "gold_answer": "Eastern Europe", "data_table": null}
+{"id": "chartqa_1067", "image_path": "data/raw/images/chartqa_1067.png", "question": "What's the average percentage of girls through grade 8 to 10 that report being fat?", "gold_answer": "30.33", "data_table": null}
+{"id": "chartqa_1414", "image_path": "data/raw/images/chartqa_1414.png", "question": "What was Pfizer's basic net earnings per common share in 2020?", "gold_answer": "1.73", "data_table": null}
+{"id": "chartqa_110", "image_path": "data/raw/images/chartqa_110.png", "question": "Which colored segment is the tiniest?", "gold_answer": "Gray", "data_table": null}

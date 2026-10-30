@@ -1,6 +1,6 @@
 # Visual Chain-of-Thought Data Pipeline — Chart Reasoning
 
-An end-to-end automated pipeline that takes raw ChartQA samples and produces a Supervised Fine-Tuning (SFT) dataset of structured Visual Chain-of-Thought reasoning traces. Built as the Problem 2 deliverable for the *Visual Chain-of-Thought Data Engineering for VLMs* assignment.
+An end-to-end automated pipeline that takes raw ChartQA samples and produces a Supervised Fine-Tuning (SFT) dataset of structured Visual Chain-of-Thought reasoning traces. 
 
 The pipeline is **CPU-friendly** — all heavy lifting is offloaded to the Gemini API (free tier sufficient for the demo). It runs end-to-end on ~100 chart samples in under 30 minutes on a standard laptop.
 
